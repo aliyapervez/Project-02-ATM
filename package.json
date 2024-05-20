@@ -1,6 +1,6 @@
 {
-  "name": "@aliyapervez/CLI/ATM",
-  "version": "1.0.1",
+  "name": "@aliyapervez/cli-based-atm",
+  "version": "1.0.0",
   "description": "This is a  CLI based ATM",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
   },
   "bin": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
   "author": "Aliya Pervez",
